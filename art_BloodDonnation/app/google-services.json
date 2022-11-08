@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053148403409",
+    "project_id": "artblooddonnation-ebd73",
+    "storage_bucket": "artblooddonnation-ebd73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053148403409:android:a9ee22b9db489efb5dd7f0",
+        "android_client_info": {
+          "package_name": "com.example.art_blooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053148403409-e348sockr8q8v3hfeaukebo7lsu3m194.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvsJR7MTTzk6c3KJl92x-6LIM6pDuTU70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053148403409-e348sockr8q8v3hfeaukebo7lsu3m194.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
